@@ -4,7 +4,7 @@ Instead of using a regular double array for the board I tried using a list of al
 
 Setup
 =====
-    git clone git://github.com/bdosorio/java-gol.git
+    git clone git://github.com/bdosorio/java-com.git
     mvn install
 
 Licence
